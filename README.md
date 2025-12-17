@@ -27,5 +27,4 @@ Projeyi kendi bilgisayarınızda (Localhost) çalıştırmak için:
 
 HAZIRLAYAN: BURAK ŞAHİN-23040101072
 
----
-**Hazırlayan:** [Adın Soyadın] - [Öğrenci Numaran]
+
